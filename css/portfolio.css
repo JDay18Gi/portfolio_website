@@ -109,7 +109,9 @@ h3 {
 	}
 
 	.logo {
-		display:none;
+		position: relative;
+		left: 50%;
+		margin-left: -15%;
 	}
 
 	.two-col, .three-col {
